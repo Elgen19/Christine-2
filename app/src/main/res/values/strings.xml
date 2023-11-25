@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionsDemos</string>
+    <string name="next_page">Next Page</string>
+    <string name="request_camera_permission">Request Camera Permission</string>
+    <string name="request_location_permission">Request Location Permission</string>
+    <string name="request_file_access_permission">Request File Access Permission</string>
+</resources>
